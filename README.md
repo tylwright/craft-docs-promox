@@ -2,7 +2,7 @@
 
 **Self-documenting infrastructure for Proxmox** - Automatically generate and maintain living documentation for your VMs, containers, storage, and backups with real-time health monitoring.
 
-Built for the [Craft Docs Winter Challenge 2024/2025](https://www.craft.do/imagine).
+Built for the [Craft Docs Winter Challenge 2025](https://www.craft.do/imagine).
 
 ## The Problem
 
@@ -64,8 +64,8 @@ pip install craft-proxmox
 
 ### Install from Source
 ```bash
-git clone https://github.com/yourusername/craft-proxmox
-cd craft-proxmox
+git clone https://github.com/tylwright/craft-docs-proxmox
+cd craft-docs-proxmox
 pip install -e .
 ```
 
